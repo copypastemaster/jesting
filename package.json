@@ -1,0 +1,24 @@
+{
+  "name": "jesting",
+  "version": "1.0.0",
+  "description": "Practicing writing my own tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "cov": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copypastemaster/jesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/copypastemaster/jesting/issues"
+  },
+  "homepage": "https://github.com/copypastemaster/jesting#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
